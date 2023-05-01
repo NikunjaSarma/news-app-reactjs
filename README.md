@@ -56,5 +56,3 @@ let ApiKey = "paste-your-api-key-here";
 
 export default App
 ```
-
-## Thankyou
