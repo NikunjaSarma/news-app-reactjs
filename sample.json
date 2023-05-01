@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "'Virat Kohli doesn't think boundaries enough': Vaughan spots missing element - Hindustan Times",
+            "description": "Despite his swashbuckling form, former England captain Michael Vaughan has spotted a missing element in Kohli's batting. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/virat-kohli-doesnt-think-boundaries-enough-vaughans-missing-element-in-rcb-stars-batting-despite-5-halfcenturies-101682596006672.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/04/27/1600x900/India-IPL-Cricket-68_1682596122955_1682596157708.jpg",
+            "publishedAt": "2023-04-27T11:55:16Z",
+            "content": "Virat Kohli is back setting the IPL on fire. With 333 runs from eight matches that includes five half-centuries, Kohli currently sits second in the Orange Cap list for IPL 2023. For someone who strug… [+2930 chars]"
+        }
+    ]
+}
